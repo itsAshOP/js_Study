@@ -136,7 +136,7 @@
 // console.log(str.charAt(5));
 
 // pricticeQ1
-let fullName = prompt ("enter a fullname here");
+// let fullName = prompt ("enter a fullname here");
 
-let userName = "@" + fullName + fullName.length;
-console.log(userName);
+// let userName = "@" + fullName + fullName.length;
+// console.log(userName);
